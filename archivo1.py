@@ -1,0 +1,2 @@
+saludar = "hola"
+print (saludar)
